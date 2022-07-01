@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, NodeJS, AWS
 - 🌱 I’m currently learning AWS and NodeJS
 - 💞️ I’m looking to collaborate on React projects.
-- 📫 How to reach me vikram_dokkupalle@epam.com
+- 📫 How to reach me vikram.spidy@gmail.com
 
 <!---
 Vikram-EPAM/Vikram-EPAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
